@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cz.houzvicka_jan.demo_eshop.main" target="1.8" />
+      <module name="cz.houzvicka_jan.demo_eshop.test" target="1.8" />
+      <module name="eshop_microservice_configServer.cz.houzvicka_jan.demo_eshop.main" target="1.8" />
+      <module name="eshop_microservice_configServer.cz.houzvicka_jan.demo_eshop.test" target="1.8" />
+      <module name="eshop_microservice_product.cz.houzvicka_jan.demo_eshop.main" target="1.8" />
+      <module name="eshop_microservice_product.cz.houzvicka_jan.demo_eshop.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
